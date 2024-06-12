@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/team-balancer/static/css/main.98c163cf.chunk.css",
+    "main.js": "/team-balancer/static/js/main.1c0db153.chunk.js",
+    "main.js.map": "/team-balancer/static/js/main.1c0db153.chunk.js.map",
+    "runtime-main.js": "/team-balancer/static/js/runtime-main.eaea44c2.js",
+    "runtime-main.js.map": "/team-balancer/static/js/runtime-main.eaea44c2.js.map",
+    "static/js/2.660419a3.chunk.js": "/team-balancer/static/js/2.660419a3.chunk.js",
+    "static/js/2.660419a3.chunk.js.map": "/team-balancer/static/js/2.660419a3.chunk.js.map",
+    "static/js/3.9c63d105.chunk.js": "/team-balancer/static/js/3.9c63d105.chunk.js",
+    "static/js/3.9c63d105.chunk.js.map": "/team-balancer/static/js/3.9c63d105.chunk.js.map",
+    "index.html": "/team-balancer/index.html",
+    "static/css/main.98c163cf.chunk.css.map": "/team-balancer/static/css/main.98c163cf.chunk.css.map",
+    "static/js/2.660419a3.chunk.js.LICENSE.txt": "/team-balancer/static/js/2.660419a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaea44c2.js",
+    "static/js/2.660419a3.chunk.js",
+    "static/css/main.98c163cf.chunk.css",
+    "static/js/main.1c0db153.chunk.js"
+  ]
+}
